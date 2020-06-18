@@ -6,9 +6,9 @@ This project consists of 4 parts, A,B,C and D. Each part has different style of 
 
 
 ## __Part A:-__
-   Simple Steganography, the message will be added to grayscale carrier image and prodcues encoded image.
+ Simple Steganography, the message will be added to grayscale carrier image and prodcues encoded image.
 ## __Part B:-__
-    To over come the simplicity of decoding the message. Additional technique has been added in this part, which will scramb the encoded message. 
+ To over come the simplicity of decoding the message. Additional technique has been added in this part, which will scramb the encoded message. 
 ## __Part C:-_
 
 
