@@ -5,11 +5,11 @@ Steganography is the technique of hiding secret data within an ordinary, non-sec
 This project consists of 4 parts, A,B,C and D. Each part has different style of implementation. The instruction of using each part is provided individually in README file...
 
 
-##__Part A:-__
+## __Part A:-__
 
-##__Part B:-__
-##__Part C:-__
-##__Part D:-__
+## __Part B:-__
+## __Part C:-__
+## __Part D:-__
 
 
 
